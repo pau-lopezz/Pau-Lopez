@@ -1,6 +1,6 @@
 # 👋 Hola! Sóc en Pau López
 
-**17 anys · GM Sistemes Microinformàtics i Xarxes (Pía Sant Anna)**  
+**17 anys · GM Sistemes Microinformàtics i Xarxes (Pía Santa Anna)**  
 Estudiant apassionat pel desenvolupament web, la creació de videojocs i la ciberseguretat.
 
 ---
